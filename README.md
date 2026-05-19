@@ -18,7 +18,7 @@
 
 ## 项目演示
 
-<img src="./images/前端页面.png" />
+<img src="./images/frontendpage.png" />
 
 ## 项目结构
 
