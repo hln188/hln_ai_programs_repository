@@ -14,15 +14,11 @@
 
 ## 架构图
 
-```html
-<img src="./images/mermaid_20260517_a5cd14.svg">
-```
+<img src="./images/architecture.png" />
 
 ## 项目演示
 
-```html
-<img src="./images/前端页面.png">
-```
+<img src="./images/前端页面.png" />
 
 ## 项目结构
 
